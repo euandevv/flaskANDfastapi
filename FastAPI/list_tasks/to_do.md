@@ -71,17 +71,17 @@ O sistema deve:
 ### Requisitos
 
 * [X]  Aprender o básico de SQLite.
-* [ ]  Criar o arquivo do banco de dados.
+* [X]  Criar o arquivo do banco de dados.
 * [X]  Criar a tabela `tasks`.
-* [ ]  Conectar o FastAPI ao SQLite.
-* [ ]  Implementar o endpoint de criação utilizando o banco.
-* [ ]  Implementar o endpoint de listagem utilizando o banco.
-* [ ]  Implementar o endpoint de consulta por ID utilizando o banco.
-* [ ]  Implementar o endpoint de atualização utilizando o banco.
-* [ ]  Implementar o endpoint de alteração de status utilizando o banco.
-* [ ]  Implementar o endpoint de exclusão utilizando o banco.
-* [ ]  Remover a lista `tasks = []`.
-* [ ]  Remover a variável `proximo_id`.
+* [X]  Conectar o FastAPI ao SQLite.
+* [X]  Implementar o endpoint de criação utilizando o banco.
+* [X]  Implementar o endpoint de listagem utilizando o banco.
+* [X]  Implementar o endpoint de consulta por ID utilizando o banco.
+* [X]  Implementar o endpoint de atualização utilizando o banco.
+* [X]  Implementar o endpoint de alteração de status utilizando o banco.
+* [X]  Implementar o endpoint de exclusão utilizando o banco.
+* [X]  Remover a lista `tasks = []`.
+* [X]  Remover a variável `proximo_id`.
 
 ### Desafio Extra
 
